@@ -23,13 +23,240 @@
   <Layout>
     <DimensionLayout dim="0">
       <Group type="103" groupAlignment="0" attributes="0">
-          <EmptySpace min="0" pref="518" max="32767" attributes="0"/>
+          <Group type="102" attributes="0">
+              <EmptySpace pref="33" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="btnCard1" pref="100" max="32767" attributes="0"/>
+                          <Component id="btnCard2" pref="100" max="32767" attributes="0"/>
+                          <Component id="btnCard3" pref="100" max="32767" attributes="0"/>
+                          <Component id="btnCard4" pref="100" max="32767" attributes="0"/>
+                          <Component id="btnCard5" pref="100" max="32767" attributes="0"/>
+                          <Component id="btnPlay" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="btnCard6" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="btnCard7" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="btnCard8" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="btnCard9" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="btnCard10" min="-2" pref="100" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="btnCard11" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="btnCard12" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="btnCard16" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="btnCard19" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="btnCard20" min="-2" pref="100" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="btnCard13" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="btnCard14" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="btnCard15" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="btnCard17" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="btnCard18" min="-2" pref="100" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="btnCard22" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="btnCard25" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="btnCard26" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="btnCard27" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="btnCard28" min="-2" pref="100" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="btnCard21" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="btnCard23" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="btnCard24" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="btnCard29" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="btnCard30" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="btnExit" min="-2" pref="100" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="lblTitle" min="-2" pref="378" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="183" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
       </Group>
     </DimensionLayout>
     <DimensionLayout dim="1">
       <Group type="103" groupAlignment="0" attributes="0">
-          <EmptySpace min="0" pref="420" max="32767" attributes="0"/>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+              <Component id="lblTitle" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="46" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="btnCard21" min="-2" pref="100" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnCard23" min="-2" pref="100" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnCard24" min="-2" pref="100" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnCard29" min="-2" pref="100" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnCard30" min="-2" pref="100" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="btnCard22" min="-2" pref="100" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnCard25" min="-2" pref="100" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnCard26" min="-2" pref="100" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnCard27" min="-2" pref="100" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnCard28" min="-2" pref="100" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="btnCard15" min="-2" pref="100" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnCard17" min="-2" pref="100" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnCard18" min="-2" pref="100" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnCard13" min="-2" pref="100" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnCard14" min="-2" pref="100" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="btnCard16" min="-2" pref="100" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnCard19" min="-2" pref="100" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnCard20" min="-2" pref="100" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnCard11" min="-2" pref="100" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnCard12" min="-2" pref="100" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="btnCard8" min="-2" pref="100" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnCard9" min="-2" pref="100" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnCard10" min="-2" pref="100" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnCard6" min="-2" pref="100" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnCard7" min="-2" pref="100" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="btnCard1" min="-2" pref="100" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnCard2" min="-2" pref="100" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnCard3" min="-2" pref="100" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnCard4" min="-2" pref="100" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnCard5" min="-2" pref="100" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="btnPlay" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+                  <Component id="btnExit" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="492" max="32767" attributes="0"/>
+          </Group>
       </Group>
     </DimensionLayout>
   </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JButton" name="btnCard1">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnCard1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard2">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard3">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard4">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard5">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard6">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard7">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard8">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard9">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard10">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard11">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard12">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard13">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard14">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard15">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard16">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard17">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard18">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard19">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard20">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard21">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard22">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard23">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard24">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard25">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard26">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard27">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard28">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard29">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnCard30">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblTitle">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Sans" size="24" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Monsterverse Matching Game"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnPlay">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Play"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnPlayActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnExit">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Exit"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnExitActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
 </Form>
